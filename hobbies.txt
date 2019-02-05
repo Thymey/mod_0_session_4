@@ -1,0 +1,3 @@
+These are changes. Using the terminal command 'atom hobbies.txt'
+
+My hobbies include cooking, building gaming PC's, and learning new technologies.
